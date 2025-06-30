@@ -1,7 +1,7 @@
-Project Title
+Project Title:
 Intrusion Detection System using Hybrid Machine Learning and Deep Learning Models
 
-Technologies Used
+Technologies Used:
     Python
     CNN-LSTM Algorithm
     TensorFlow / Keras
@@ -10,11 +10,11 @@ Technologies Used
     Google Colab
 
 
-Dataset Used
+Dataset Used:
   WSN-DS dataset
 
 
-Instructions to Run
+Instructions to Run:
    Open the notebook in Google Colab
    
    Upload or link the dataset (NSL-KDD CSV files)
